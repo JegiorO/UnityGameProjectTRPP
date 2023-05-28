@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: b645939531091e740a3d020d4800f959
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eraser_map3-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828349ab541d9c4439ab4f5653e43dd3
+      internalID: 396772743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eraser_map3-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e052550295b9aaf469ae1fa7a954b2d4
+      internalID: 1303177899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eraser_map3-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c25928d4775de43a95a4d883d01775
+      internalID: 286059964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StartButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 131
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8718c8140aaf0d44ead3c97a465dcb55
+      internalID: 651221274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OptionsButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 109
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c64b1be307af442a1cfc6da471f2dc
+      internalID: 1178579875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ExitButton
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 71
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bda0004ed329c43aafb8c162dbc308
+      internalID: -579561617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Logo
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 15
+        width: 151
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a73218a82eee742b4b378f8a7670d7
+      internalID: -1769275736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      eraser_map3-sheet_4: 1014675899
+      Logo: -1769275736
+      eraser_map3-sheet_64: 1213988454
+      eraser_map3-sheet_6: -1067581189
+      eraser_map3-sheet_88: 905538637
+      eraser_map3-sheet_67: 854731508
+      eraser_map3-sheet_38: -674217682
+      eraser_map3-sheet_22: -1333653203
+      eraser_map3-sheet_19: -1158503067
+      eraser_map3-sheet_5: 286059964
+      eraser_map3-sheet_74: -910620747
+      eraser_map3-sheet_70: -366427633
+      eraser_map3-sheet_37: -1066515123
+      eraser_map3-sheet_44: 489662758
+      eraser_map3-sheet_48: -1222340626
+      eraser_map3-sheet_28: 364434156
+      eraser_map3-sheet_13: -1624756249
+      eraser_map3-sheet_66: -823419382
+      eraser_map3-sheet_35: -906800320
+      eraser_map3-sheet_43: 980073112
+      eraser_map3-sheet_86: 96959892
+      eraser_map3-sheet_45: 1298967634
+      eraser_map3-sheet_25: 1562099654
+      eraser_map3-sheet_31: -1124739840
+      eraser_map3-sheet_11: -462527794
+      eraser_map3-sheet_34: -2084605163
+      eraser_map3-sheet_47: -1464358779
+      eraser_map3-sheet_90: 1124222017
+      eraser_map3-sheet_8: -1138413623
+      eraser_map3-sheet_62: -285005151
+      eraser_map3-sheet_91: 355735988
+      eraser_map3-sheet_58: -1650361017
+      eraser_map3-sheet_77: -279562041
+      OptionsButton: 1178579875
+      eraser_map3-sheet_18: 1102756459
+      eraser_map3-sheet_50: 417068301
+      eraser_map3-sheet_56: -1172847384
+      eraser_map3-sheet_2: 1303177899
+      eraser_map3-sheet_14: 1789620039
+      eraser_map3-sheet_75: 489619505
+      eraser_map3-sheet_42: 651119943
+      eraser_map3-sheet_16: 718795819
+      eraser_map3-sheet_3: -59954462
+      eraser_map3-sheet_61: -927579685
+      eraser_map3-sheet_73: 907944711
+      eraser_map3-sheet_40: 1577843364
+      eraser_map3-sheet_55: 134499136
+      eraser_map3-sheet_63: -1149692930
+      eraser_map3-sheet_7: -890943743
+      eraser_map3-sheet_21: -945634960
+      eraser_map3-sheet_71: -762913450
+      eraser_map3-sheet_72: -1870749970
+      eraser_map3-sheet_26: 1762865866
+      eraser_map3-sheet_27: 1583330427
+      eraser_map3-sheet_65: -583023493
+      eraser_map3-sheet_46: 34274212
+      eraser_map3-sheet_92: -1256220109
+      eraser_map3-sheet_17: -1338887142
+      eraser_map3-sheet_85: 919960854
+      eraser_map3-sheet_52: -37660592
+      eraser_map3-sheet_23: -739671795
+      eraser_map3-sheet_36: -1875946175
+      eraser_map3-sheet_33: -2046036553
+      eraser_map3-sheet_41: 1790756824
+      eraser_map3-sheet_9: -1535159330
+      eraser_map3-sheet_79: 651170063
+      eraser_map3-sheet_54: 1437212019
+      eraser_map3-sheet_15: -2120653726
+      eraser_map3-sheet_1: 1581158113
+      eraser_map3-sheet_57: 158571507
+      eraser_map3-sheet_29: -1357569103
+      eraser_map3-sheet_20: -369607567
+      eraser_map3-sheet_78: -2049710608
+      eraser_map3-sheet_32: -289637339
+      StartButton: 651221274
+      eraser_map3-sheet_10: 1232431132
+      ExitButton: -579561617
+      eraser_map3-sheet_51: 427610562
+      eraser_map3-sheet_60: 1399478233
+      eraser_map3-sheet_59: 1691755985
+      eraser_map3-sheet_30: 1611376697
+      eraser_map3-sheet_53: -591420024
+      eraser_map3-sheet_69: -430081204
+      eraser_map3-sheet_89: -1200464098
+      eraser_map3-sheet_76: -627670923
+      eraser_map3-sheet_87: -134841397
+      eraser_map3-sheet_12: 1904066502
+      eraser_map3-sheet_0: 396772743
+      eraser_map3-sheet_68: 671406076
+      eraser_map3-sheet_24: -1017188551
+      eraser_map3-sheet_49: 1791734597
+      eraser_map3-sheet_80: -1534070073
+      eraser_map3-sheet_39: 1460624972
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
